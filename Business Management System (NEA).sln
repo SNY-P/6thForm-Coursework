@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Management System (NEA)", "Business Management System (NEA)\Business Management System (NEA).csproj", "{3719EC60-47B0-4669-A3EA-FBCCFC111E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3719EC60-47B0-4669-A3EA-FBCCFC111E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3719EC60-47B0-4669-A3EA-FBCCFC111E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3719EC60-47B0-4669-A3EA-FBCCFC111E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3719EC60-47B0-4669-A3EA-FBCCFC111E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC06FFB9-4122-4083-9826-74CB77ED6B6F}
+	EndGlobalSection
+EndGlobal

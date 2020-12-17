@@ -1,0 +1,22 @@
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\Business Management System (NEA).exe.config
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\Business Management System (NEA).exe
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\Business Management System (NEA).pdb
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business Management System (NEA).csprojAssemblyReference.cache
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Properties.Resources.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business Management System (NEA).csproj.GenerateResource.cache
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business Management System (NEA).exe
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business Management System (NEA).pdb
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.ErrorForm.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.LoginForm.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Welcome_Page.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business Management System (NEA).csproj.CopyComplete
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\NEAdb.db
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.RegisterForm.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Add_Income.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Add_Expenditure.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Suppliers.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Add_Stock.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.StreamlineWindow.resources
+C:\Users\Sonny\source\repos\Business Management System (NEA)\Business Management System (NEA)\obj\Debug\Business_Management_System__NEA_.Add_Delete_Event.resources
